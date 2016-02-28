@@ -1,0 +1,28 @@
+{
+    "chans":[],
+    "flood_delay":0.5,
+    "flood_limit":20,
+    "ident":"DissBot",
+    "ignore":[],
+    "ipv6":false,
+    "log":"#logchannel",
+    "modes":"+b",
+    "nick":"DissBot",
+    "oper":false,
+    "oper_name":"",
+    "oper_pass":"",
+    "pass":"pass",
+    "perms":{
+        "admin":[
+            "*!*@snoonet\/community-admin\/diss",
+        ],
+        "staff":[
+            "*!*@snoonet\/*"
+        ]
+    },
+    "port":6667,
+    "prefix":"#",
+    "server":"irc.snoonet.org",
+    "ssl":false,
+    "timeout":60
+}
